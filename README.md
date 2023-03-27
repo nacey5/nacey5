@@ -10,4 +10,11 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nacey5&count_private=true&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacey5&layout=compact" />
+</a>
 
